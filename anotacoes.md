@@ -3,27 +3,27 @@
 # Bloco 1
 
 01. Primeiras 20 vendas
-![alt text](<Captura de tela 2026-09-15 084838.png>)
+<img width="886" height="342" alt="Captura de tela 2026-09-15 084838" src="https://github.com/user-attachments/assets/1f87705a-3eb1-4095-b60b-47d28cb30aca" />
 
 02. Total de vendas
-![alt text](<Captura de tela 2026-09-15 085117-1.png>)
+<img width="232" height="83" alt="Captura de tela 2026-09-15 085117" src="https://github.com/user-attachments/assets/69bff213-ea1b-4717-b136-e58f997036b2" />
 
 03. Categorias de produtos
-![alt text](<Captura de tela 2026-09-15 085332.png>)
+<img width="337" height="168" alt="Captura de tela 2026-09-15 085332" src="https://github.com/user-attachments/assets/16dd023e-b441-43f5-a914-676596b10aee" />
 
 04. Cidades e estados
-![alt text](<Captura de tela 2026-09-15 085705.png>)
+<img width="356" height="368" alt="Captura de tela 2026-09-15 085705" src="https://github.com/user-attachments/assets/8c7747c4-327a-4566-9bff-907ae525872b" />
 
 # Bloco 2
 
 05. Vendas da categoria EPI
-![alt text](<Captura de tela 2026-09-15 090558.png>)
+<img width="539" height="443" alt="Captura de tela 2026-09-15 090558" src="https://github.com/user-attachments/assets/32e451c6-c62e-4228-ae16-8d056487a52b" />
 
 06. Vendas grandes e caras
-![alt text](<Captura de tela 2026-09-15 090810.png>)
+<img width="888" height="418" alt="Captura de tela 2026-09-15 090810" src="https://github.com/user-attachments/assets/6ae1c974-be5e-4e5d-8d8c-67e8ccc076fb" />
 
 07. Americana, Campinas e Piracicaba
-![alt text](<Captura de tela 2026-09-15 091201.png>)
+<img width="689" height="439" alt="Captura de tela 2026-09-15 091201" src="https://github.com/user-attachments/assets/c147e617-ef3b-4f4b-a6fb-f65310a6ba12" />
 
 08. Vendas de março de 2026
 ![alt text](<Captura de tela 2026-09-15 091445.png>)
