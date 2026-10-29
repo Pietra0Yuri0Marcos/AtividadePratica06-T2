@@ -73,10 +73,10 @@
 
 16. Faturamento bruto
 
-    Parte 1:
+- Parte 1:
 <img width="339" height="96" alt="Captura de tela 2026-09-15 100007 - Copia" src="https://github.com/user-attachments/assets/a98663da-c52c-438d-b9ca-239254531fed" />
 
-    Parte 2:
+- Parte 2:
 <img width="327" height="107" alt="Captura de tela 2026-09-15 100224" src="https://github.com/user-attachments/assets/8fe59e11-7181-428b-a7df-e7b31cf81e53" />
 
 
